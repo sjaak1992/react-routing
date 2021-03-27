@@ -6,11 +6,16 @@ import AppointmentsPage from './pages/Appointments';
 import WhiteningPage from './pages/Whitening';
 import './App.css';
 
+
+
 import {
     BrowserRouter as Router,
     Switch,
     Route,
 } from "react-router-dom";
+
+
+
 
 function App() {
     return (
